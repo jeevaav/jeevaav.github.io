@@ -2461,7 +2461,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #654468;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2490,6 +2490,7 @@
 
 			#header a:hover {
 				color: #ffffff !important;
+				background-color: #472C49;
 			}
 
 		#header > header {
@@ -2568,7 +2569,7 @@
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
+							background: #472C49;
 							color: #4acaa8 !important;
 						}
 
