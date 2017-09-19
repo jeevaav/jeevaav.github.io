@@ -448,3 +448,5 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+.my-list li { border-bottom: 1px solid black; }
