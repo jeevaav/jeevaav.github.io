@@ -4,20 +4,23 @@ html, body {
     width:100%;
     padding:0;
 }
+
 section {
     display: block;
+	float: left;
     background: #CFF;
-    height:100%;
+    height:auto;
     width:100%;
     padding: 60px;
     padding-left: 120px;
     box-sizing:border-box;
+
 }
 
 
-
 #main  {
-	
+	height:100%;
+    width:100%;
 	background-image: url("../../images/main_background4.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
@@ -55,15 +58,18 @@ section {
     background: #111816;
     color: #fff;
     font-size: 30px;
+	float:  left;
 }
 #two {
     background: #123037;
     color: #fff;
     font-size: 30px;
+	float:  left;
 }
 #three {
     background: #74BE98;
     font-size: 30px;
+	float:  left;
 }
 #four {
     background: #BED28D;
