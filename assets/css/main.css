@@ -63,7 +63,8 @@ section {
 #two {
     background: #123037;
     color: #fff;
-    font-size: 30px;
+    font-size: 3vw;
+	font-size: 3vh;
 	float:  left;
 }
 #three {
