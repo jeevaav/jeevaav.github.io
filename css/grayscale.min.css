@@ -7,7 +7,12 @@
 #contact {
 	background-image: url("../img/bg4.jpg");
 	background-size: contain;
+}
+
+#things {
+	background-image: url("../img/bg3.jpg");
+	
+	background-size: contain;
 	
 }
 
-#experience 
